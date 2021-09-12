@@ -1,0 +1,12 @@
+
+Ejercicio 3
+La respuesta es: b) Calcula el precio total de las bicicletas de la bicicletería
+
+Ejercicio 4
+a) Entre las tablas Bicicleteria y Bicicleta existe una relación 1 a 1. (F)
+b) Entre las tablas Bicicleteria y Bicicleta existe una relación 1 a N. (V)
+c) Entre las tablas Bicicleteria y Bicicleta existe una relación N a N. (F)
+d) La clave primaria de la tabla Bicicleta es nroDeSerie. (V)
+e) La clave foránea de la tabla Bicicleta es nroDeSerie. (F)
+f) La tabla Bicicleteria no tiene clave primaria. (F)
+g) La tabla Bicicleteria no tiene clave foránea (V)
